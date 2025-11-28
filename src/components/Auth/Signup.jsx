@@ -261,10 +261,10 @@ function Signup({ onSignup, switchToLogin }) {
             Sign in
           </button>
         </div>
-      </div>  {/* End form container */}
-    </div>     {/* End main container */}
-  );  // End return statement
-}  // End Signup function
+      </div>
+    </div>
+  );
+}
 
 // Export component so other files can import and use it
 export default Signup;
